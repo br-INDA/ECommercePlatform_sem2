@@ -1,2 +1,2 @@
 # ECommercePlatform
-It is a GUI Project of a e-commerce platform using java language
+GUI based Project to create e-commerce platform using java language.
